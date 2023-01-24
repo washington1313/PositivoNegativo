@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\bin\Debug\PositivoNegativo.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativo\PositivoNegativo\obj\Debug\PositivoNegativo.pdb

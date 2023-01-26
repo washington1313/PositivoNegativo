@@ -10,20 +10,17 @@ namespace PositivoNegativo
 
             Console.WriteLine("Digite um número: ");
 
-            numero = int .Parse(Console.ReadLine());
+            numero = int.Parse(Console.ReadLine());
 
-            if (numero >=0 )
-            {
+            if (numero >= 0)
+
                 Console.WriteLine("*** Número Positivo ***");
-            }
 
             else if (numero < 0)
-            {
+
                 Console.WriteLine("*** Número Negativo ***");
-            }
 
             Console.ReadKey();
-
         }
     }
 }
